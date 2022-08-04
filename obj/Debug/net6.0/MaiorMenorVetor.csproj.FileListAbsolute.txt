@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MaiorMenorVetor\obj\Debug\net6.0\MaiorMenorVetor.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MaiorMenorVetor\obj\Debug\net6.0\MaiorMenorVetor.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MaiorMenorVetor\obj\Debug\net6.0\MaiorMenorVetor.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MaiorMenorVetor\obj\Debug\net6.0\MaiorMenorVetor.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MaiorMenorVetor\obj\Debug\net6.0\MaiorMenorVetor.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MaiorMenorVetor\bin\Debug\net6.0\MaiorMenorVetor.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MaiorMenorVetor\bin\Debug\net6.0\MaiorMenorVetor.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MaiorMenorVetor\bin\Debug\net6.0\MaiorMenorVetor.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MaiorMenorVetor\bin\Debug\net6.0\MaiorMenorVetor.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MaiorMenorVetor\bin\Debug\net6.0\MaiorMenorVetor.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MaiorMenorVetor\obj\Debug\net6.0\MaiorMenorVetor.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MaiorMenorVetor\obj\Debug\net6.0\refint\MaiorMenorVetor.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MaiorMenorVetor\obj\Debug\net6.0\MaiorMenorVetor.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MaiorMenorVetor\obj\Debug\net6.0\MaiorMenorVetor.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MaiorMenorVetor\obj\Debug\net6.0\ref\MaiorMenorVetor.dll
